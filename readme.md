@@ -17,7 +17,7 @@ Desenvolvido durante a **Start Week**, o objetivo principal foi explorar conceit
 
 ## 📸 Preview
 
-🔗 [Acesse o site ao vivo](https://lufecovizzi.github.io/start-week-macbook-page/)  
+🔗 [Acesse o site](https://lufecovizzi.github.io/start-week-macbook-page/)  
 
 
 ---
